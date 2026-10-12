@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 运行时数据 / 向量数据库
+chroma_db/
+logs/
+
+# 测试与编辑器缓存
+.pytest_cache/
+.vscode/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 大文件（超过GitHub单文件100MB上限，保留本地不上传）
+印尼语论文信息/印尼语0.csv
+
+# 嵌套git仓库（副本目录，内容冗余不上传）
+印尼语论文信息/论文分类器 - 副本 - 副本/

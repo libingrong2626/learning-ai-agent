@@ -1,0 +1,9 @@
+pandas
+openpyxl
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
+chromadb
+requests
